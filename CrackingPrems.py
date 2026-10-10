@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 NIKAA FLARE — A retro hacker-style CLI tool for Android Termux.
-Demo login screens + Telegram community link.
+Paid login screens + Telegram community link.
  real credentials collected. Terminal-based only.
 """
 
