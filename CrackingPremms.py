@@ -43,7 +43,7 @@ PAID_ACCOUNTS = {
         "password": "mickey2026!",
         "service": "Disney+"
     },
-  relix_accts": {
+  "netflix_accts": {
         "username": "Sandradds@gmail.com",
         "password": "N1023970P",
         "service": "Netflix"
